@@ -1,5 +1,5 @@
-import { dataMarch } from "../data/march.js";
-const data = dataMarch;  
+import { dataApril } from "../data/april.js";
+const data = dataApril;  
 const REPORT_PHOTO_URL = "assets/manager.png";
 const REPORT_PHOTO_NAME = "Анастасия Мельникова";
 const REPORT_PHOTO_ROLE = "Бизнес-менеджер";
