@@ -1,0 +1,35 @@
+{
+    "meta": {
+      "title": "Ежемесячный отчет по результатам работы",
+      "period": "Март 2026",
+      "manager": "Бизнес менеджер: Мельникова Анастасия Викторовна"
+    },
+    "administrative": {
+      "hr": {
+        "staffPlan": 28,
+        "staffFact": 28,
+        "staffCompletionPercent": 100,
+        "recommendationPlan": 1,
+        "recommendationFact": 1,
+        "recommendationCompletionPercent": 100,
+        "traineesCount": 3,
+        "leavingCount": 2
+      },
+      "vmr": {
+        "ozScore": 83.2,
+        "target": 77,
+        "failedStores": [
+          { "name": "Березники Пятилетки 41", "score": 76 },
+          { "name": "Березники Пятилетки 87", "score": 72 },
+          { "name": "Кунгур Карла Маркса 17", "score": 74 }
+        ]
+      },
+      "payments": {
+        "cashPercent": 32.9,
+        "qrPercent": 38.3,
+        "bankCardPercent": 28.7,
+        "targetBankCardPercent": 25,
+        "description": "Показатель отражает уровень управления способом оплаты со стороны продавца, а не предпочтение клиента."
+      }
+    }
+  }
